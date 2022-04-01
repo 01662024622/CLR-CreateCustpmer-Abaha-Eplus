@@ -1,0 +1,6 @@
+D:\C#\StoreCustomer\StoreCustomer\bin\Debug\StoreCustomer.dll
+D:\C#\StoreCustomer\StoreCustomer\bin\Debug\StoreCustomer.pdb
+D:\C#\StoreCustomer\StoreCustomer\obj\Debug\StoreCustomer.csproj.AssemblyReference.cache
+D:\C#\StoreCustomer\StoreCustomer\obj\Debug\StoreCustomer.csproj.CoreCompileInputs.cache
+D:\C#\StoreCustomer\StoreCustomer\obj\Debug\StoreCustomer.dll
+D:\C#\StoreCustomer\StoreCustomer\obj\Debug\StoreCustomer.pdb
